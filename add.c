@@ -2,7 +2,7 @@
 // Header statement
 
 int main() {
-    char operator;
+    char operator; 
     double num1, num2, result;
 
     // Input the operator and two numbers
