@@ -1,6 +1,6 @@
 #include <stdio.h>
 // Header statement
-
+ 
 int main() {
     char operator;      
     double num1, num2, result; 
