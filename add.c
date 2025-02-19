@@ -10,7 +10,7 @@ int main() {
     scanf("%c", &operator); 
     
     printf("Enter two numbers: "); 
-    scanf("%lf %lf", &num1, &num2);
+    scanf("%lf %lf", &num1, &num2); 
 
     // Perform calculations based on the operator
     switch (operator) {
