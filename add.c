@@ -11,7 +11,7 @@ int main() {
     
     printf("Enter two numbers: ");  
     scanf("%lf %lf", &num1, &num2); 
-
+ 
     // Perform calculations based on the operator
     switch (operator) {
         case '+':
@@ -41,4 +41,5 @@ int main() {
 
     return 0; // Exit successfully
 }
+
 
